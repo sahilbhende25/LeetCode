@@ -13,7 +13,7 @@ int main() {
         reverse(curr.begin(),curr.end());
         for(auto&digit : curr) {
             ans.push_back(digit);
-        }
+        } 
     }
     return ans;
     return 0;
