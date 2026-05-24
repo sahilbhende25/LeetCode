@@ -1,4 +1,3 @@
 # LeetCode
 A structured repository for problem solving
-PS: Bug thanks to Rasmika.
-Big*
+PS: Bug thanks to P.A.A. Big*
