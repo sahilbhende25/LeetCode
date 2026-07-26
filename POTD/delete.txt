@@ -1,0 +1,9 @@
+Architecture styles
+1) LAyered Architecture - OSI, TCP/IP protocol stack
+2) Multi-tiered web apps
+3) RPCs to communicate
+4) Object Architecture - micro-service Architecture
+5) Event based Architecture - pub sub, msgqueues
+6) Shared data space
+7) 
+
