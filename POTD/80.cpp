@@ -24,7 +24,7 @@ public:
             k++;
             pos++;
             nums[pos] = nums[left];
-        }
+            }
         return k;
     }
 };
