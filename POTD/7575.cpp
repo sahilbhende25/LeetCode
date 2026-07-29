@@ -24,8 +24,8 @@ public:
             }
             else {
                 num=2;
-                   cnt2--;
+                cnt2--;
             }
         }
     }
-}; 
+};
